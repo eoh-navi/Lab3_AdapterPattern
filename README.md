@@ -29,3 +29,5 @@ In your solution you must provide the following in your Github link account:
    - Uploaded java codes for the solution.
 
 Upload your GitHub Solution link here.
+
+<img width="1689" height="1273" alt="Blank diagram" src="https://github.com/user-attachments/assets/f0049fed-b0ad-4e87-bec9-2cb84826ebed" />
